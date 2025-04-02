@@ -1,8 +1,10 @@
-package com.example.listavip;
+package com.example.listavip.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.listavip.R;
 
 public class MainActivity extends AppCompatActivity {
 
